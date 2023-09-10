@@ -18,9 +18,7 @@
     1. [Logistic Regression](#logistic-regression)
     2. [XGBoost](#xgboost)
 8. [Model Evaluation](#model-evaluation)
-9. [Deployment](#deployment)
-10. [Conclusion](#conclusion)
-11. [Credits](#credits)
+9. [Conclusion](#conclusion)
 
 ---
 
@@ -122,13 +120,7 @@ Evaluate the performance of the trained models using appropriate evaluation metr
 
 ---
 
-## 9. Deployment <a name="deployment"></a>
-
-Once the best-performing model is selected, deploy it in a production environment. Ensure low-latency predictions and monitoring of model performance.
-
----
-
-## 10. Conclusion <a name="conclusion"></a>
+## 9. Conclusion <a name="conclusion"></a>
 
 Summarize the findings and the model's performance. Discuss insights gained from the project and potential future improvements.
 
